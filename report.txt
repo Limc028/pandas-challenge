@@ -1,0 +1,6 @@
+You must include a written description of at least two observable trends based on the data.
+
+The analysis is to observe the area-wide standardised test scores to understand where the resources shoul be spent. 
+Wihtin this analysis is data from Englush and Maths results, average size of the schools, budgets and spending and which LGA they are in. 
+1) Independent Schools made up 3 of the top 5 schools by overall passing rate and Government dominated the bottom 5.
+2) Larger school size and larger school spending doesn't translate to greater pass rates. The lower spending ranges (per student: $585-$630) and size (1000-2000, <1000) yield the best results.
